@@ -123,6 +123,7 @@ export class TabsTitleControl extends TitleControl {
 		super.create(parent);
 
 		this.titleContainer = parent;
+		debugger;
 
 		// Tabs Container
 		this.tabsContainer = document.createElement('div');
